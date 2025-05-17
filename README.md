@@ -94,7 +94,7 @@ Kitap okuma sitesi. Wattpad uygulamasındaki kendim yazdığım kitapları yayı
     <h2>Kitaplarım</h2>
     <div class="kitap">
       <h3>Savaş ve Suç</h3>
-      <p>Adaletin kaybolduğu bir dünyada, hayatta kalmak sadece güçlü olmakla değil, doğruyu seçmekle mümkün. Savaşın gölgesinde işlenen suçlar ve açığa çıkan gerçeklerle dolu bir serüven.</p>
+      <p>Bir asker ve mafya arasındaki aşk hikayesini anlatıyor.</p>
     </div>
     <div class="kitap">
       <h3>Dünyanın Sonu (Kitap 1): Felaketin Başlangıcı</h3>
